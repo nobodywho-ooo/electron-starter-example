@@ -20,3 +20,12 @@ npm install
 ```bash
 npm run start
 ```
+
+---
+
+## Feedback & Contributions
+
+We welcome your feedback and ideas!
+
+- **Bug Reports & Improvements**: Open an issue on the **[Issues](https://github.com/nobodywho-ooo/electron-starter-example/issues)** page.
+- **Feature Requests & Questions**: Join the discussion on **[Discussions](https://github.com/nobodywho-ooo/electron-starter-example/discussions)**.
